@@ -35,7 +35,7 @@ Senate is a self-hosted alternative to Heroku, Vercel, and Railway. Deploy to an
 sh -c "$(curl -sSL https://get.senate.sh)"
 ```
 
-Then open `http://<your-server>:8080` to access your dashboard.
+Then open `http://<your-server>:2999` to access your dashboard.
 
 ## Documentation
 
